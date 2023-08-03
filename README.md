@@ -1,4 +1,8 @@
 # Tic Tac Toe Game
+[![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 This is a simple Tic Tac Toe game built using React.js. It allows two players to take turns and play the game on a 3x3 grid. The game also includes a win condition detection, which announces the winner or a draw.
 
